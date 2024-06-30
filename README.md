@@ -1,5 +1,15 @@
+<p align="center">
+  <img src="https://github.com/reshmaharidhas/personal-password-manager/blob/main/assets/images/icon_password_lock.png" width="100" />
+</p>
+
 # Personal Password Manager for Windows
 Desktop offline password manager for Windows
+<p align="center">
+  <img src=https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2Fpersonal-password-manager&labelColor=%23000000&countColor=%2300ff00&style=plastic&labelStyle=none"/>
+  <img src="https://img.shields.io/github/languages/code-size/reshmaharidhas/personal-password-manager"/>
+  <img src="https://img.shields.io/github/created-at/reshmaharidhas/personal-password-manager"/>
+  <img src="https://img.shields.io/github/license/reshmaharidhas/personal-password-manager"/>
+</p>
 
 ## Programming Language
 - Python 3
